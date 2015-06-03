@@ -21,6 +21,7 @@
         android:layout_below="@+id/title"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="@dimen/button_margin_top"
+        android:background="#FF9800"
         android:onClick="buttonShowToast" />
 
     <Button
@@ -31,6 +32,7 @@
         android:layout_below="@+id/button_spotify"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="@dimen/button_margin_top"
+        android:background="#FF9800"
         android:onClick="buttonShowToast"  />
 
     <Button
@@ -41,6 +43,7 @@
         android:layout_below="@+id/button_scores"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="@dimen/button_margin_top"
+        android:background="#FF9800"
         android:onClick="buttonShowToast"  />
 
     <Button
@@ -51,6 +54,7 @@
         android:layout_below="@+id/button_library"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="@dimen/button_margin_top"
+        android:background="#FF9800"
         android:onClick="buttonShowToast"  />
 
     <Button
@@ -61,6 +65,7 @@
         android:layout_below="@+id/button_bigger"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="@dimen/button_margin_top"
+        android:background="#FF9800"
         android:onClick="buttonShowToast"  />
 
     <Button
@@ -71,6 +76,7 @@
         android:layout_below="@+id/button_reader"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="@dimen/button_margin_top"
+        android:background="#F44336"
         android:onClick="buttonShowToast"  />
 
 </RelativeLayout>
